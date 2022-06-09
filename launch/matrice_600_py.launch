@@ -1,0 +1,8 @@
+<launch>
+  <node
+    pkg="matrice_600_pro"
+    type="main.py"
+    name="matrice_600_pro"
+    output="screen"
+  />
+</launch>
